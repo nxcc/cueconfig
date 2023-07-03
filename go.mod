@@ -1,4 +1,4 @@
-module github.com/cue-exp/cueconfig
+module github.com/nxcc/cueconfig
 
 go 1.19
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cue-exp/cueconfig"
+	"github.com/nxcc/cueconfig"
 	"github.com/rogpeppe/go-internal/testscript"
 )
 
